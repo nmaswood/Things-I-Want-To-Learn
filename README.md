@@ -1,5 +1,15 @@
 # Things-I-Want-To-Learn
 
+### What is this?
+
+Just a couple of resolutions I've had for a while.
+
+### Why is it on Github?
+
+Well, if its on Github I'll see everyday I program and if its public I'll social pressure!
+
+## Technical
+
 - [ ] Intermediate Vim
     * As inspired by this stack overflow post http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim
     * I spend most of my time in a text editor so might as well get good at it.
@@ -16,6 +26,10 @@
     * Super trendy/ super cool
     * Can do cool side projects
     * Interesting AF
+
+- [ ] Learn More Pure Math
+
+- [ ] Learn More Statistics
 
 - [ ] Learn D3
 
@@ -37,10 +51,6 @@
 
 - [ ] Learn about Complexity Theory and more Theoretical CS
 
-- [ ] Learn how to start a business
-
-- [ ] Become better at medidation / self reflection
-
 - [ ] Learn some fancy NLP
 
 - [ ] Learn Map Reduce/ Spark/ Big Data Stuff
@@ -48,3 +58,14 @@
 - [ ] Have good understanding of AWS
 
 - [ ] Become more proficient at Command Line
+
+## Non-Technical
+
+- [ ] Become better at meditation / self reflection
+
+- [ ] Learn how to start a business
+
+- [ ] Hang Clean 225
+
+- [ ] Better People Skills
+
