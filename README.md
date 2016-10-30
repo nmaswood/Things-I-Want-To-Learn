@@ -6,7 +6,7 @@ Just a couple of resolutions I've had for a while.
 
 ### Why is it on Github?
 
-Well, if its on Github I'll see everyday I program and if its public I'll have more social pressure to commit to them.
+Well, if its on Github I'll see them everyday I program and if its public I'll have more social pressure to commit to them.
 
 ## Technical
 
