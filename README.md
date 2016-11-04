@@ -27,6 +27,9 @@ Well, if its on Github I'll see them everyday I program and if its public I'll h
     * Can do cool side projects
     * Interesting AF
 
+- [ ] Learn Regular Expressions
+    * Super useful
+
 - [ ] Learn More Pure Math
 
 - [ ] Learn More Statistics
