@@ -10,6 +10,13 @@ Well, if its on Github I'll see them everyday I program and if its public I'll h
 
 ## Technical
 
+- [] Shortcuts
+    * Browser shortcuts
+    * Terminal shorcuts
+    * Mac osx shortcuts
+    * use computer without mouse
+    * What saas tools could make me more productive?
+
 - [ ] Intermediate Vim
     * As inspired by this stack overflow post http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim
     * I spend most of my time in a text editor so might as well get good at it.
@@ -29,6 +36,8 @@ Well, if its on Github I'll see them everyday I program and if its public I'll h
 
 - [ ] Learn Regular Expressions
     * Super useful
+
+- [] Get good at GIT
 
 - [ ] Learn More Pure Math
 
