@@ -16,6 +16,8 @@ Well, if its on Github I'll see them everyday I program and if its public I'll h
     * Mac osx shortcuts
     * use computer without mouse
     * What saas tools could make me more productive?
+- [] OS in Rust
+    * http://os.phil-opp.com/multiboot-kernel.html
 
 - [ ] Intermediate Vim
     * As inspired by this stack overflow post http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim
