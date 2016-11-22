@@ -3,16 +3,15 @@
 - [ ] Neural Networks
 - [ ] Personal Website
 - [ ] Teach Collin to Code
-        - [ ] Set up Environment
-            - [ ] Ubuntu
-            - [ ] Git 
-            - [ ] Sublime 
-            - [ ] Terminal
-                - [ ] ls,pwd, cd
-            - [ ] Vim 
-        - [ ] Python
-            - [ ] Basics 
-            - [ ] Data Analysis
-            - [ ] HTTP GET
-            - [ ] APIS
-        - [ ] Set Up Personal Website
+    * Set up Environment
+        * Ubuntu
+        * Git 
+        * Sublime 
+        * Terminal
+        * ls,pwd, cd
+        * Vim 
+    * Python
+        * Basics 
+        * Data Analysis
+        * APIS
+    * Set Up Personal Website
