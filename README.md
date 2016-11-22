@@ -10,7 +10,7 @@ Well, if its on Github I'll see them everyday I program and if its public I'll h
 
 ## Technical
 
-- [ x] Shortcuts 
+- [x] Shortcuts 
     * Browser shortcuts
     * Terminal shorcuts
     * Mac osx shortcuts
@@ -41,7 +41,7 @@ Well, if its on Github I'll see them everyday I program and if its public I'll h
 - [x] Learn Regular Expressions
     * Super useful
 
-- [] Get good at GIT
+- [ ] Get good at GIT
 
 - [ ] Learn More Pure Math
 
