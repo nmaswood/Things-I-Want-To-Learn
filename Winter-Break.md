@@ -1,0 +1,17 @@
+- [  ] Personal Website
+- [  ] Build a Web App in Go 
+- [  ] Neural Networks
+- [  ] Personal Website
+- [  ] Teach Collin to Code
+        - [  ] Set up Environment
+            - [  ] Ubuntu
+            - [  ] Git 
+            - [  ] Sublime 
+            - [  ] Terminal
+                - [  ] ls,pwd, cd
+            - [  ] Vim 
+        - [  ] Python
+            - [  ] Basics 
+            - [  ] Data Analysis
+            - [  ] HTTP GET
+            - [  ] APIS
