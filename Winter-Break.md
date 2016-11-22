@@ -1,4 +1,4 @@
-- [  ] Personal Website
+- [ ] Personal Website
 - [  ] Build a Web App in Go 
 - [  ] Neural Networks
 - [  ] Personal Website
