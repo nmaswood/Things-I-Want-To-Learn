@@ -15,3 +15,4 @@
         * Data Analysis
         * APIS
     * Set Up Personal Website
+* Note Book All the time
